@@ -2,11 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="94ad08cf-35c0-4dc1-a7d9-10feaed53179" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/employee-profile/src/main/java/com/sittinon/employeeprofile/controller/EmployeeController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/employee-profile/src/main/java/com/sittinon/employeeprofile/controller/HealthController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/employee-profile/src/main/java/com/sittinon/employeeprofile/entity/Employee.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/employee-profile/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/employee-profile/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/employee-profile/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/employee-profile/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/employee-profile/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/employee-profile/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -15,12 +11,18 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/employee-profile/src/main/java/com/sittinon/employeeprofile/controller/EmployeeController.java">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="6" fullScreen="true">
     <option name="y" value="23" />
     <option name="width" value="1440" />
     <option name="height" value="829" />
@@ -30,9 +32,75 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="ProjectPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="employeeprofile" type="b2602c69:ProjectViewProjectNode" />
+              <item name="employeeprofile" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="employeeprofile" type="b2602c69:ProjectViewProjectNode" />
+              <item name="employeeprofile" type="462c0819:PsiDirectoryNode" />
+              <item name="employee-profile" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="employeeprofile" type="b2602c69:ProjectViewProjectNode" />
+              <item name="employeeprofile" type="462c0819:PsiDirectoryNode" />
+              <item name="employee-profile" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="employeeprofile" type="b2602c69:ProjectViewProjectNode" />
+              <item name="employeeprofile" type="462c0819:PsiDirectoryNode" />
+              <item name="employee-profile" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="employeeprofile" type="b2602c69:ProjectViewProjectNode" />
+              <item name="employeeprofile" type="462c0819:PsiDirectoryNode" />
+              <item name="employee-profile" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="employeeprofile" type="b2602c69:ProjectViewProjectNode" />
+              <item name="employeeprofile" type="462c0819:PsiDirectoryNode" />
+              <item name="employee-profile" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="employeeprofile" type="b2602c69:ProjectViewProjectNode" />
+              <item name="employeeprofile" type="462c0819:PsiDirectoryNode" />
+              <item name="employee-profile" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="sittinon" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="employeeprofile" type="b2602c69:ProjectViewProjectNode" />
+              <item name="employeeprofile" type="462c0819:PsiDirectoryNode" />
+              <item name="employee-profile" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="sittinon" type="462c0819:PsiDirectoryNode" />
+              <item name="employeeprofile" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
       <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -64,9 +132,9 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1440" height="829" extended-state="0" />
+    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2532189" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25679544" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -98,6 +166,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-135" />
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/employee-profile/src/main/java/com/sittinon/employeeprofile/controller/EmployeeController.java">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
 </project>
