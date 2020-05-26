@@ -14,7 +14,15 @@ public class Employee {
 
     private String name;
     private String tel;
-    private Date birthDate;
+    private String email;
+
+    public String getEmail() {
+        return email;
+    }
+
+    public void setEmail(String email) {
+        this.email = email;
+    }
 
     public Long getId() {
         return id;
@@ -24,13 +32,6 @@ public class Employee {
         this.id = id;
     }
 
-    public Date getBirthDate() {
-        return birthDate;
-    }
-
-    public void setBirthDate(Date birthDate) {
-        this.birthDate = birthDate;
-    }
 
     public String getName() {
         return name;

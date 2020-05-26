@@ -15,6 +15,7 @@ import java.util.List;
 import java.util.Optional;
 
 @RestController
+@CrossOrigin(origins = "http://localhost:4200")
 @RequestMapping("/employee")
 public class EmployeeController {
     @Autowired
@@ -49,8 +50,8 @@ public class EmployeeController {
 //        return "Delete Success";
 //    }
 
-    @PostMapping("/deleteemp/{id}")
-    private Result deleteEmployee(@PathVariable long id) {
+    @GetMapping("/deleteemp")
+    private Result deleteEmployee(@RequestParam("id") long id) {
         return employeeService.deleteEmployee(id);
     }
 
